@@ -1,5 +1,4 @@
 # BHISESHOP
-MY WEBSITE IS FOR ONLINE SHOPPING HERE YOU GET  TOP PRODUCTS  
 <!Doctype html>
 <html lang="en">
   <head>
